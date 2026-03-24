@@ -5,7 +5,7 @@ A clean, menu‑driven command‑line calculator built in Python. It performs ba
 ## Features
 - Addition  
 - Subtraction  
-- Multiplication  
+- Multiplication 
 - Division (with division‑by‑zero handling)  
 - Continuous menu workflow  
 - Numeric input validation  
